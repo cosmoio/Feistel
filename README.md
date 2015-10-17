@@ -8,4 +8,6 @@ gcc feistel.c -o feistel
 Usage:
 
 ./feistel FILETOENCRYPT ENCRYPTEDFILE
+
+
 ./feistel ENCRYPTEDFILE DECRYPTEDFILE d
