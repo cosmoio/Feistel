@@ -5,9 +5,8 @@ Compile options:
 
 gcc feistel.c -o feistel
 
-Usage:
+### Usage:
 
 ./feistel FILETOENCRYPT ENCRYPTEDFILE
-
 
 ./feistel ENCRYPTEDFILE DECRYPTEDFILE d
